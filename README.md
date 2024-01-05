@@ -4,5 +4,5 @@
 ## 1. 자기소개서
 <img src="https://github.com/zeromin41/comento_project/assets/130297212/83911135-2d79-4638-8236-e887db7bec39"  width="600" height="600"/>
 
-
-
+## 2. 지뢰찾기 시작화면
+![image](https://github.com/zeromin41/comento_project/assets/130297212/10be450c-bdb6-4a7a-9559-ad4cd78fb5bb)
