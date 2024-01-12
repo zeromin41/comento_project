@@ -6,3 +6,9 @@
 
 ## 2. 지뢰찾기 시작화면
 ![image](https://github.com/zeromin41/comento_project/assets/130297212/10be450c-bdb6-4a7a-9559-ad4cd78fb5bb)
+
+## 3. 배터리 및 현재시각 구현
+### 배터리 감소중
+![배터리 87퍼](https://github.com/zeromin41/comento_project/assets/130297212/a21a0437-6dd0-43f9-ba48-3013467584a2)
+### 배터리 방전
+![배터리 0퍼](https://github.com/zeromin41/comento_project/assets/130297212/792b5c1e-ca64-4ed9-9995-747663fbfc07)
