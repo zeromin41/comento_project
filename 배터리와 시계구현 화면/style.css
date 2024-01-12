@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.battery-container {
+    margin-left: 70%;
+    margin-bottom: 20px;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+}
+
+#battery {
+    width: 100px;
+    height: 50px;
+    background-color: greenyellow;
+    border: 1px solid #000;
+}
+
+#battery-text {
+    margin-right: 10px;
+}
+
+.clock-container {
+    margin-bottom: 20px;
+}
+
+#clock {
+    font-size: 24px;
+}
+
+.alarm-memo-container {
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.alarm-container {
+    margin-right: 20px;
+}
+
+#alarms {
+    margin-top: 10px;
+}
+
+.memo-container {
+    width: 300px; 
+    margin-top: 70px;
+}
+
+#memoList {
+    list-style: none;
+    padding: 0;
+}
+
+.memo-item {
+    margin-bottom: 5px;
+}

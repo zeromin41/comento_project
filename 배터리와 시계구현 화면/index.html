@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Battery and Alarms</title>
+</head>
+<body>
+    <div class="battery-container">
+        <div id="battery-container">
+            <span id="battery-text">배터리</span>
+            <div id="battery"></div>
+        </div>
+    </div>
+    
+    <div class="clock-container">
+        현재시각 <div id="clock"></div>
+    </div>
+
+    <div class="alarm-memo-container">
+        <div class="alarm-container"> 알람 <br>
+            <input type="time" id="alarmTime">
+            <button onclick="addAlarm()"> 알람 추가</button>
+            <div id="alarms"></div>
+        </div>
+
+        <div class="memo-container"> 메모 <br>
+            <input type="text" id="memoText">
+            <button onclick="addMemo()">메모 추가</button>
+            <ul id="memoList"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
